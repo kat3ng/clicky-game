@@ -1,1 +1,1 @@
-# my-first-reaxct-app
+# my-first-react-app
