@@ -73,7 +73,7 @@ class App extends Component {
       <Wrapper>
         <Container>
           <Nav
-            title="⭐️ Sailor Moon Clicky Game 🌙"
+            title="SailorMoon  ClickyGame🌙"
             score={this.state.currentScore}
             topScore={this.state.topScore}
             winLose={this.state.winLose}

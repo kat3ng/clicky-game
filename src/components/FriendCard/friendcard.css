@@ -12,6 +12,10 @@
     transition: all .2s ease-in-out
 }
 
+.card>.img-container:hover {
+    background: hotpink;
+}
+
 .card>.img-container {
     height: 100%;
     overflow: hidden;
@@ -24,7 +28,7 @@
 }
 
 .card>.content>ul>li {
-    margin-top: 18px;
+    margin-top: 1px;
 }
 
 ul {
@@ -34,8 +38,8 @@ ul {
     align-items: center
 }
 
-@media only screen and (max-width:750px) {
+/* @media only screen and (max-width:750px) {
     #cur-sco, #top-sco {
         font-size: 1rem
     }
-}
+} */
