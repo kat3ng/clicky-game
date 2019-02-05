@@ -16,6 +16,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage": "https://kat3ng.github.io/clicky-game/",
   "browserslist": [
     ">0.2%",
     "not dead",
